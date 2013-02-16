@@ -1,1 +1,1 @@
-<img src="https://github.com/rick/roll/raw/master/docs/rickroll.gif"/>
+![don't tell me you're too blind to see](docs/rickroll.gif)
